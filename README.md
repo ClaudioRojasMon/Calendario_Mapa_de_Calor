@@ -1,4 +1,4 @@
-# calendario_actividades_II_2021
+# Calendario_Actividades_II_2021
 **Calendario de Evaluaciones II semestre del 2021** de un establecimiento educacional. 
 
 **El objetivo** de este trabajo era ***visualizar la cantidad de evaluaciones por día y confrontarlos con las actividades extracurriculares de un establecimiento educacional.***
