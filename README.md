@@ -1,4 +1,4 @@
-# Calendario_ Actividades
+# Calendario con Mapas de Calor
 
 En este repositorio hay distintos calendarios de mapas de calor para dar cuenta de evaluaciones y actividades en distintos años
 
